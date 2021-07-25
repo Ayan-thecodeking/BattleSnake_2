@@ -45,4 +45,4 @@ It has code to:
 
 Battlesnake documentation is available at [docs.battlesnake.com](https://docs.battlesnake.com), including detailed Guides, API References, and Tips.
 
-You can also join Coders Evoke Community on [Discord](https://discord.gg/FZusE7FH4q). We have a growing community for programmers & developers of all skill levels wanting to help everyone succeed and have fun with Battlesnake as well!!!
+You can also join Coders Evoke Community on [Discord](https://discord.gg/FZusE7FH4q). We have a growing community for programmers & developers of all skill levels wanting to help everyone succeed and have fun with Battlesnake as well!!
